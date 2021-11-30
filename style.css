@@ -10,6 +10,23 @@
     text-align: center;
 }
 
+.form{
+    font-size: 50px;
+    text-align: center;
+}
+a:link, a:visited {
+background-color: #f4433600;
+color: white;
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+
+a:hover, a:active {
+background-color: turquoise;
+}
+
 body {
     background-image: url('images/background.jpg');
     height: 100%;
@@ -35,4 +52,13 @@ font-size: 17px;
 .navbar a:hover {
 background-color: #ddd;
 color: black;
+}
+
+.proj img{
+    height: 353px;
+    width: 616px;
+}
+
+.proj p{
+    font-size: 20px;
 }
