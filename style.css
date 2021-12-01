@@ -80,3 +80,16 @@ color: black;
     text-align: center;
 }
 
+
+/*for js*/
+.temp{
+    font-size: 25px;
+    display: inline-block;
+    border-radius: 10px;
+    border: 2px;
+    border-style: solid;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    left: 39%;
+}
