@@ -55,9 +55,10 @@ JavaScript (JS)
 
 # Credits
 Media: 
-1. Found on Steam9a gaming platform) https://store.steampowered.com/app/216150/MapleStory/
+1. Found on Steam gaming platform) https://store.steampowered.com/app/216150/MapleStory/
 2. https://www.bandwagon.asia/articles valorant-david-nottingham-fan-theories-spotify-playlists-year-2-riot-games-jett-pheonix-reyna-lore-interview-july-2021
 3. https://seeklogo.com/vector-logo/363285/c-sharp-c
+4. https://websitepeople.com.au/home-3/pattern-background/ 
 
 Acknowledgements:
 https://www.w3schools.com/howto/howto_js_topnav.asp 
