@@ -1,6 +1,9 @@
 # Assg-1
 Every html file has a navigation bar to make going around each website easier. 
 
+# Target Auidence 
+Employers 
+
 # Index.html:
 This page contains the intro, describing who I am. 
 I also included my education and work experience to show a good first impression. 
